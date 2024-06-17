@@ -18,7 +18,7 @@ By default it uses port 80. Can be upgraded to establish TLS conecction but is n
 ```bash
 sudo bash torhost.sh install
 sudo bash torhost.sh check
-
+```
 ![image](https://github.com/el10tt/tor-toolkit/assets/124470922/ce12a1b3-9db2-4fab-b0ed-84d5b02abd27)
 
 
